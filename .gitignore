@@ -1,0 +1,8 @@
+node_modules
+dist
+src/**/*.js
+data/db.json
+.env
+coverage
+playwright-report
+test-results

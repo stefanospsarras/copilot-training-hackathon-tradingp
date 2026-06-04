@@ -1,0 +1,150 @@
+{
+  "skills": [
+    {
+      "id": "s1",
+      "name": "TypeScript",
+      "category": "Languages",
+      "targetLevel": 4
+    },
+    {
+      "id": "s2",
+      "name": "React",
+      "category": "Frontend",
+      "targetLevel": 5
+    },
+    {
+      "id": "s3",
+      "name": "Node.js",
+      "category": "Backend",
+      "targetLevel": 4
+    },
+    {
+      "id": "s4",
+      "name": "PostgreSQL",
+      "category": "Backend",
+      "targetLevel": 4
+    },
+    {
+      "id": "s5",
+      "name": "Docker",
+      "category": "DevOps",
+      "targetLevel": 3
+    },
+    {
+      "id": "s6",
+      "name": "Kubernetes",
+      "category": "DevOps",
+      "targetLevel": 3
+    },
+    {
+      "id": "s7",
+      "name": "GraphQL",
+      "category": "Backend",
+      "targetLevel": 3
+    },
+    {
+      "id": "s8",
+      "name": "CSS / Tailwind",
+      "category": "Frontend",
+      "targetLevel": 4
+    }
+  ],
+  "engineers": [
+    {
+      "id": "e1",
+      "name": "Alice Chen",
+      "team": "Platform",
+      "role": "Senior Engineer",
+      "skillLevels": {
+        "s1": 5,
+        "s2": 5,
+        "s3": 4,
+        "s4": 3,
+        "s5": 4,
+        "s6": 2,
+        "s7": 2,
+        "s8": 2
+      }
+    },
+    {
+      "id": "e2",
+      "name": "Bob Martinez",
+      "team": "Platform",
+      "role": "Engineer",
+      "skillLevels": {
+        "s1": 3,
+        "s2": 4,
+        "s3": 3,
+        "s4": 2,
+        "s5": 2,
+        "s6": 1,
+        "s7": 1,
+        "s8": 4
+      }
+    },
+    {
+      "id": "e3",
+      "name": "Carol Singh",
+      "team": "Platform",
+      "role": "Lead Engineer",
+      "skillLevels": {
+        "s1": 5,
+        "s2": 5,
+        "s3": 5,
+        "s4": 4,
+        "s5": 5,
+        "s6": 4,
+        "s7": 3,
+        "s8": 4
+      }
+    },
+    {
+      "id": "e4",
+      "name": "David Kim",
+      "team": "Growth",
+      "role": "Engineer",
+      "skillLevels": {
+        "s1": 4,
+        "s2": 5,
+        "s3": 2,
+        "s4": 1,
+        "s5": 1,
+        "s6": 1,
+        "s7": 1,
+        "s8": 5
+      }
+    },
+    {
+      "id": "e5",
+      "name": "Eve Patel",
+      "team": "Growth",
+      "role": "Senior Engineer",
+      "skillLevels": {
+        "s1": 4,
+        "s2": 4,
+        "s3": 3,
+        "s4": 3,
+        "s5": 2,
+        "s6": 1,
+        "s7": 3,
+        "s8": 3
+      }
+    },
+    {
+      "id": "e6",
+      "name": "Frank Wu",
+      "team": "Growth",
+      "role": "Staff Engineer",
+      "skillLevels": {
+        "s1": 5,
+        "s2": 3,
+        "s3": 5,
+        "s4": 5,
+        "s5": 4,
+        "s6": 3,
+        "s7": 4,
+        "s8": 2
+      }
+    }
+  ]
+}
